@@ -1,0 +1,5 @@
+Browser/venv/
+.DS_Store
+self_driving_car/venv
+SLP.py
+Jupyter notebooks/music-recommender/music-recommender.joblib
